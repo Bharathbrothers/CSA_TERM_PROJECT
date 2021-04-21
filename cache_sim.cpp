@@ -55,8 +55,9 @@ int main() {
   int mapping=0;
   // need to take these variable values from config file.
 // trace file
-  FILE *fp_trace;
-  fp_trace = fopen("cache_trace_file.trc","r");
+ //  FILE *fp_trace;
+  std::ifstream fp_trace;
+  fp_trace.open("cache_trace_file.trc");
 // config file
   std::ifstream fp_config;
   fp_config.open("cache_configure.cfg");
@@ -104,13 +105,22 @@ int main() {
 
 
   std::vector<int> cache_vector;
-  int add1, add2, insttype;
+  int add1, insttype;
+  string input_line;
   for(int i=0;i<10;i++){
-    fscanf(fp_trace, "%d %d %d",&add1, &add2, &insttype);
+    std::getline(fp_trace,input_line);
+    //fscanf(fp_trace, "%s\n",&input_line);
     // -1 in type denotes #
+    std::cout << input_line << '\n';
+    std::string delimiter = ":";
+    std::string address =  input_line.substr(0,input_line.find(delimiter));
+    //std::string lnumber = rtoken.substr(0,rtoken.find(" "));
+    //std::string number = rtoken.substr(0,rtoken.find(" "));
+    std::cout << address << '\n';
+    add1 = std::stoi(address);
     cache_vector.push_back(add1);
-    cache_vector.push_back(add2);
-    std::cout << add1 <<" "<<add2  << "\n";
+    //cache_vector.push_back(add2);
+    std::cout << add1 << "\n";
     //printf("%d %d\n", add1, add2);
   }
 
@@ -120,7 +130,7 @@ int main() {
   //cache should of given size
   // each address will take word_size
   // block_size is used in mapping type
-  fclose(fp_trace);
+  //fclose(fp_trace);
   //fclose(fp_config);
   fclose(fp_output);
   return 0;
