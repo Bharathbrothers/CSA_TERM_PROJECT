@@ -5,3 +5,96 @@
 402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
 40259d:	48 83 c4 08          	add    $0x8,%rsp
 4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+4025a1:	c3                   	retq
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402593:	48 85 c0             	test   %rax,%rax
+40259d:	48 83 c4 08          	add    $0x8,%rsp
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 <__sprintf_chk@plt+0x2db190>
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>

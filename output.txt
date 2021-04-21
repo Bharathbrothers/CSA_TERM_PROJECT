@@ -1,0 +1,106 @@
+cache_size = 2 MB
+2
+block_size = 65 B
+65
+word_size = 4 B
+4
+mapping = 0
+0
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+block -1
+word -0 40258c
+word -1 402593
+word -2 40258c
+word -3 402593
+word -4 402588
+word -5 40258c
+word -6 402593
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402593
+word -11 40259d
+word -12 402596
+word -13 402598
+word -14 402588
+word -15 40258c
+block -2
+word -0 402593
+word -1 402596
+word -2 402598
+word -3 40259d
+word -4 4025a1
+word -5 40258c
+word -6 402593
+word -7 402596
+word -8 402598
+word -9 402588
+word -10 40258c
+word -11 402593
+word -12 40259d
+word -13 4025a1
+word -14 40258c
+word -15 402593
+block -3
+word -0 40258c
+word -1 402593
+word -2 402588
+word -3 40258c
+word -4 402593
+word -5 40258c
+word -6 402593
+word -7 402596
+word -8 402593
+word -9 40259d
+word -10 402596
+word -11 402598
+word -12 402588
+word -13 40258c
+word -14 402593
+word -15 402596
+block -4
+word -0 402598
+word -1 40259d
+word -2 4025a1
+word -3 40258c
+word -4 402593
+word -5 402596
+word -6 402598
+word -7 402588
+word -8 40258c
+word -9 402593
+word -10 40259d
+word -11 4025a1
+word -12 40258c
+word -13 402593
+word -14 40258c
+word -15 402593
+block -5
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 40258c
+word -4 402593
+word -5 402596
+word -6 402593
+word -7 40259d
+word -8 402596
+word -9 402598
+word -10 40258c
+word -11 402593
