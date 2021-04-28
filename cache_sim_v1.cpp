@@ -13,6 +13,24 @@ using namespace std;
 //set_associative_mapping();
 //fully_associative_mapping();
 //own_type_mapping();
+
+std::vector<vector<string>> block_vectors;
+std::vector<string> cache_vector;
+
+int no_of_blocks_in_cache =0;
+int no_of_words_in_block =0;
+
+void display_cache(){
+  for (int i = 0; i < no_of_blocks_in_cache; i++) {
+      std::cout << "block -" <<i << '\n';
+      for (int j = 0; j < no_of_words_in_block; j++) {
+        std::cout <<"word -" <<j<<" "<<block_vectors[i][j] << '\n';
+      }
+      std::cout  << '\n';
+  }
+}
+
+
   int  direct_mapping(){
     std::cout << "direct_mapping" << '\n';
     return 0;
@@ -34,12 +52,25 @@ using namespace std;
 // random_replacement();
 // own_replacement();
 
-  int lru_replacement(){
+  int lru_replacement(int add_count,int line_count){
     std::cout << "lru_replacement" << '\n';
+
     return 0;
   }
- int fifo_replacement(){
+ int fifo_replacement(int add_count,int line_count){
    std::cout << "fifo_replacement" << '\n';
+   // block_vectors, add_count, line_count
+       int k = 0;
+       for (int i = 0; i < no_of_blocks_in_cache && add_count < line_count; i++) {
+           std::vector<string> temp;
+           for (int j = 0; j < no_of_words_in_block; j++) {
+             temp.push_back(cache_vector[add_count]);
+             add_count++;
+           }
+           block_vectors[k] = temp;
+       }
+       k++;
+       display_cache();
    return 0;
   }
 int   random_replacement(){
@@ -62,7 +93,7 @@ int main() {
  //  FILE *fp_trace;
   std::ifstream fp_trace;
 //  fp_trace.open("cache_trace_file.trc");
- fp_trace.open("trace_test-1.trc");
+ fp_trace.open("trace_test-2.trc");
 // config file
   std::ifstream fp_config;
   fp_config.open("cache_configure.cfg");
@@ -119,11 +150,10 @@ int main() {
   //}
 
 
-  std::vector<string> cache_vector;
   std::string add1, insttype;
   string input_line;
   int line_count =0;
-  for(int i=0;i<100;i++){
+  for(int i=0;i<620;i++){
     std::getline(fp_trace,input_line);
     //fscanf(fp_trace, "%s\n",&input_line);
     // -1 in type denotes #
@@ -146,10 +176,9 @@ int main() {
 // cache contains max cache_size/block_size number of blocks.
 // cache is full when all blocks are filled.
 // then go for lru_replacement
-int no_of_blocks_in_cache = (cache_size * 1024) / block_size;
-int no_of_words_in_block = block_size / word_size;
+no_of_blocks_in_cache = (cache_size * 1024) / block_size;
+no_of_words_in_block = block_size / word_size;
 
-std::vector<vector<string>> block_vectors;
 int add_count =0;
   for (int i = 0; i < no_of_blocks_in_cache && add_count < line_count; i++) {
       std::vector<string> temp;
@@ -159,26 +188,25 @@ int add_count =0;
       }
       block_vectors.push_back(temp);
   }
+
+  display_cache();
+
   // replacement is needed bcoz cache is full but address are still pending
-  int replace = 0; // default is lru
+  int replace = 1; // default is fifo
+  std::cout << "add_count" <<add_count<< '\n';
+  std::cout << "line_count" <<line_count<< '\n';
+
   if(add_count<=line_count){
       switch(replace) {
-        case 0: cout << lru_replacement();
+        case 0: cout << lru_replacement(add_count, line_count);
                 break;
-        case 1: cout << fifo_replacement();
+        case 1: cout << fifo_replacement(add_count, line_count);
                 break;
         case 2: cout << random_replacement();
                 break;
       }
   }
 
-  for (int i = 0; i < no_of_blocks_in_cache; i++) {
-      std::cout << "block -" <<i << '\n';
-      for (int j = 0; j < no_of_words_in_block; j++) {
-        std::cout <<"word -" <<j<<" "<<block_vectors[i][j] << '\n';
-      }
-      std::cout  << '\n';
-  }
 
   switch(mapping) {
     case 0:
