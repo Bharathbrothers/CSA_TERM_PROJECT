@@ -52,14 +52,14 @@ LINKS: [Link-1](https://cseweb.ucsd.edu/classes/fa07/cse240a/project1.html) [LIN
 ### TO-DO:
 - [X] BASIC INPUT READING FROM BOTH FILES
 - [X] PLACING THE BLOCKS INTO CACHE WHICH IS VECTOR UNTIL IT FILLS
-- [ ] UPDATING BLOCKS INTO STRUCTS BY CREATINF STRUCT OBJECTS
+- [ ] UPDATING BLOCKS INTO STRUCTS BY CREATING STRUCT OBJECTS
 - [ ] CACHE REPLACEMENT BY 3 METHODS
-  - [ ] LRU
-  - [ ] FIFO
-  - [ ] RANDOM
-- [ ] CALCULATING HIT AND MISS RATIO FROM ABOVE by taking cache into a set and checking in O(1)
-- [ ] MAPPING TECHNIQUES
-  - [ ] DIRECT
-  - [ ] FULLY ASSOCIATIVE
-  - [ ] SET ASSOCIATIVE
- - [ ] IMPLEMENTING IN SIMPLESCALAR SIMULATOR     
+  - [ ] LRU by checking for *least recently used or the previous requests* 
+  - [ ] FIFO by *replacing from beginning of cache vector(old ones first replaced)* 
+  - [ ] RANDOM by *selecting a random block in cache*  
+- [ ] CALCULATING HIT AND MISS RATIO FROM ABOVE by *taking cache into a set and checking in O(1) for the present element*
+- [ ] MAPPING TECHNIQUES (better to implement one set associative function with k as input or parameter based on value we call these functions as all are variants of set associative mapping)
+  - [ ] DIRECT by *cache block = mod of main block (this is nothing but 1 set associative where each block will be in 1 set)* 
+  - [ ] FULLY ASSOCIATIVE *can be placed anywhere as whole cache is one set(this is nothing but n set associative where all blocks in cache are in 1 set)*
+  - [ ] SET ASSOCIATIVE *cache set = mod of main block*
+ - [ ] IMPLEMENTING IN SIMPLESCALAR SIMULATOR *not sure whether we will do it completely or not*     
