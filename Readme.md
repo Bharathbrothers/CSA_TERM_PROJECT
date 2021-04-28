@@ -59,7 +59,7 @@ LINKS: [Link-1](https://cseweb.ucsd.edu/classes/fa07/cse240a/project1.html) [LIN
 - [ ] UPDATING BLOCKS INTO STRUCTS BY CREATING STRUCT OBJECTS
 - [ ] CACHE REPLACEMENT BY 3 METHODS
   - [ ] LRU by checking for *least recently used or the previous requests* 
-  - [X] FIFO by *replacing from beginning of cache vector(old ones first replaced)* (need to check once again.)
+  - [X] FIFO by *replacing from beginning of cache vector(old ones first replaced)* (need to check once again.)(should add an if condition to call it again if input is more but cache is full.)
   - [ ] RANDOM by *selecting a random block in cache*  
 - [ ] CALCULATING HIT AND MISS RATIO FROM ABOVE by *taking cache into a set and checking in O(1) for the present element*
 - [ ] MAPPING TECHNIQUES (better to implement one set associative function with k as input or parameter based on value we call these functions as all are variants of set associative mapping)
