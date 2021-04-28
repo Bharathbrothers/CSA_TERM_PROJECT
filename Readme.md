@@ -15,7 +15,7 @@ cache trace file.trc
 //beginning of the file
 // double slash for comment line
 
-## trace file has been updated.
+### trace file has been updated.
 ```
 402593:	48 85 c0             	test   %rax,%rax
 402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
@@ -27,8 +27,9 @@ cache trace file.trc
 //end of file
 ```
 
+### cache configure.cfg
+
 ```
-cache configure.cfg
 //beginig of file
 // double slash for comment line
 cache_size = 2 MB
