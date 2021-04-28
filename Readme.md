@@ -17,8 +17,11 @@ cache trace file.trc
 
 ## trace file has been updated.
 ```
-1000 1004 4001
-1004 1008 #
+402593:	48 85 c0             	test   %rax,%rax
+402596:	74 05                	je     40259d <__strcat_chk@plt-0x23>
+402598:	e8 c3 08 00 00       	callq  402e60 <__sprintf_chk@plt+0x10>
+402588:	48 83 ec 08          	sub    $0x8,%rsp
+40258c:	48 8b 05 4d ba 2d 00 	mov    0x2dba4d(%rip),%rax        # 6ddfe0 
 .............
 .............
 //end of file
@@ -55,7 +58,7 @@ LINKS: [Link-1](https://cseweb.ucsd.edu/classes/fa07/cse240a/project1.html) [LIN
 - [ ] UPDATING BLOCKS INTO STRUCTS BY CREATING STRUCT OBJECTS
 - [ ] CACHE REPLACEMENT BY 3 METHODS
   - [ ] LRU by checking for *least recently used or the previous requests* 
-  - [ ] FIFO by *replacing from beginning of cache vector(old ones first replaced)* 
+  - [X] FIFO by *replacing from beginning of cache vector(old ones first replaced)* (need to check once again.)
   - [ ] RANDOM by *selecting a random block in cache*  
 - [ ] CALCULATING HIT AND MISS RATIO FROM ABOVE by *taking cache into a set and checking in O(1) for the present element*
 - [ ] MAPPING TECHNIQUES (better to implement one set associative function with k as input or parameter based on value we call these functions as all are variants of set associative mapping)
