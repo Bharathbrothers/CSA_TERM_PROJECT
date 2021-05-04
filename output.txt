@@ -1,11 +1,20 @@
 cache_size = 2 MB
 2
-block_size = 65 B
-65
+block_size = 64 B
+64
 word_size = 4 B
 4
 mapping = 0
 0
+no_of_blocks_in_cache32
+no of blocks in set: 1
+no_of_words_in_block16
+no_of_sets_in_cache 0
+direct_mapping
+It is nothing but 1 way set_associative_mapping having 1 block in each set!
+mapping - done no of sets in cache: 32
+0
+0set -0
 block -0
 word -0 402588
 word -1 40258c
@@ -23,84 +32,1206 @@ word -12 40258c
 word -13 402593
 word -14 40259d
 word -15 4025a1
-block -1
-word -0 40258c
-word -1 402593
-word -2 40258c
-word -3 402593
-word -4 402588
-word -5 40258c
-word -6 402593
-word -7 40258c
-word -8 402593
-word -9 402596
-word -10 402593
-word -11 40259d
-word -12 402596
-word -13 402598
-word -14 402588
-word -15 40258c
-block -2
-word -0 402593
-word -1 402596
-word -2 402598
-word -3 40259d
-word -4 4025a1
-word -5 40258c
-word -6 402593
-word -7 402596
-word -8 402598
-word -9 402588
-word -10 40258c
-word -11 402593
-word -12 40259d
-word -13 4025a1
-word -14 40258c
-word -15 402593
-block -3
-word -0 40258c
-word -1 402593
-word -2 402588
-word -3 40258c
-word -4 402593
-word -5 40258c
-word -6 402593
-word -7 402596
-word -8 402593
-word -9 40259d
-word -10 402596
-word -11 402598
-word -12 402588
-word -13 40258c
-word -14 402593
-word -15 402596
-block -4
-word -0 402598
-word -1 40259d
-word -2 4025a1
-word -3 40258c
-word -4 402593
-word -5 402596
-word -6 402598
-word -7 402588
-word -8 40258c
-word -9 402593
-word -10 40259d
-word -11 4025a1
-word -12 40258c
-word -13 402593
-word -14 40258c
-word -15 402593
-block -5
+
+set -1
+block -0
 word -0 402588
 word -1 40258c
 word -2 402593
-word -3 40258c
-word -4 402593
-word -5 402596
-word -6 402593
-word -7 40259d
-word -8 402596
-word -9 402598
-word -10 40258c
-word -11 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -2
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -3
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -4
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -5
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -6
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -7
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -8
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -9
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -10
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -11
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -12
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -13
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -14
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -15
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -16
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -17
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -18
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -19
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -20
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -21
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -22
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -23
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -24
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -25
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -26
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -27
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -28
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -29
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -30
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -31
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+add_count512
+line_count620
+fifo_replacement
+After Replacement:!!
+set -0
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -1
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -2
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -3
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -4
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -5
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -6
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -7
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -8
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -9
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -10
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -11
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -12
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -13
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -14
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -15
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -16
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -17
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -18
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -19
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -20
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -21
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -22
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -23
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -24
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -25
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -26
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -27
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -28
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -29
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -30
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+set -31
+block -0
+word -0 402588
+word -1 40258c
+word -2 402593
+word -3 402596
+word -4 402598
+word -5 40259d
+word -6 4025a1
+word -7 40258c
+word -8 402593
+word -9 402596
+word -10 402598
+word -11 402588
+word -12 40258c
+word -13 402593
+word -14 40259d
+word -15 4025a1
+
+0
