@@ -16,6 +16,7 @@ using namespace std;
 
 std::vector<std::vector<std::vector<std::string>>> set_vectors;
 std::vector<vector<string>> block_vectors;
+
 std::vector<string> cache_vector;
 std::unordered_set<std::string> cache_block_set;
 
@@ -37,12 +38,12 @@ int misscount =0;
 
 void display_cache(){
 
-    std::cout << "hit count is :" <<hitcount<< '\n';
-    std::cout << "miss count is :" <<misscount<< '\n';
-    std::cout << "no_of_blocks_in_cache" << no_of_blocks_in_cache << '\n';
+    std::cout << "hit count is : " <<hitcount<< '\n';
+    std::cout << "miss count is : " <<misscount<< '\n';
+    std::cout << "no_of_blocks_in_cache: " << no_of_blocks_in_cache << '\n';
     std::cout << "no of blocks in set: " <<no_of_blocks_in_set<< '\n';
-    std::cout << "no_of_words_in_block" <<no_of_words_in_block <<'\n';
-    std::cout << "no_of_sets_in_cache " << no_of_sets_in_cache << '\n';
+    std::cout << "no_of_words_in_block: " <<no_of_words_in_block <<'\n';
+    std::cout << "no_of_sets_in_cache: " << no_of_sets_in_cache << '\n';
 
 
   for (int k = 0; k < no_of_sets_in_cache; k++) {
@@ -58,22 +59,24 @@ void display_cache(){
 
 }
 
-int mapping_function(){
+int mapping_function(int add_count){
 
-      add_count =0;
+      //add_count =0;
       // no of sets in cache or set wor  d_size
       // no of blocks in sets
       // no of words in blocks
       no_of_sets_in_cache = (cache_size*1024) / (no_of_blocks_in_set * no_of_words_in_block * word_size);
       std::cout <<"no of sets in cache: "<<  no_of_sets_in_cache << '\n';
       for (int k = 0; k < no_of_sets_in_cache; k++) {
+        std::vector<vector<string>> block_vectors;
         if(!cache_block_set.empty()){
           cache_block_set.erase(cache_block_set.begin(), cache_block_set.end());
         }
         int cbs_loc = 0;
         for (int i = 0; i < no_of_blocks_in_set && add_count < line_count; i++) {
             std::vector<string> temp;
-            for (int j = 0; j < no_of_words_in_block; j++) {
+            std::cout << "temp size: " << temp.size()<< '\n';
+            for (int j = 0; temp.size() < no_of_words_in_block; j++) {
               string curr = cache_vector[add_count];
               if(cache_block_set.find(curr) != cache_block_set.end()){
                   //std::cout << "hit: address is present " << '\n';
@@ -97,6 +100,10 @@ int mapping_function(){
             std::cout << '\n';
             */
             }
+            std::cout << "temp:" << '\n';
+            for(auto it : temp){
+              std::cout <<it << " ";
+            }
             block_vectors.push_back(temp);
         }
         set_vectors.push_back(block_vectors);
@@ -111,19 +118,19 @@ int mapping_function(){
     std::cout << "direct_mapping" << '\n';
     std::cout << "It is nothing but 1 way set_associative_mapping having 1 block in each set!" << '\n';
 
-    cout << "mapping - done " << mapping_function() <<"\n";
+    cout << "mapping - done " << mapping_function(0) <<"\n";
 
     return 0;
   }
   int set_associative_mapping(){
     std::cout << "set_associative_mapping" << '\n';
-    mapping_function();
+    mapping_function(0);
     return 0;
   }
   int fully_associative_mapping(){
     std::cout << "fully_associative_mapping" << '\n';
     std::cout << "It is nothing but n way set_associative_mapping having n block in each set, that is whole cache is 1 set!" << '\n';
-    mapping_function();
+    mapping_function(0);
     return 0;
   }
   int own_type_mapping(){
@@ -143,6 +150,8 @@ int mapping_function(){
  int fifo_replacement(int add_count,int line_count){
    std::cout << "fifo_replacement" << '\n';
    // block_vectors, add_count, line_count
+
+   std::vector<vector<string>> block_vectors;
        int k = 0;
        for (int i = 0; i < no_of_blocks_in_cache && add_count < line_count; i++) {
            std::vector<string> temp;
@@ -153,10 +162,13 @@ int mapping_function(){
            block_vectors[k] = temp;
        }
        k++;
+    /*
+    mapping_function(add_count);
        if(add_count<=line_count){
          cout << fifo_replacement(add_count, line_count);
        }
        std::cout << "After Replacement:!!" << '\n';
+    */
        display_cache();
    return 0;
   }
@@ -180,7 +192,7 @@ int main() {
  //  FILE *fp_trace;
   std::ifstream fp_trace;
 //  fp_trace.open("cache_trace_file.trc");
- fp_trace.open("trace_test-2.trc");
+ fp_trace.open("trace_test-2.trc");  //    input_trace_ps.trc
 // config file
   std::ifstream fp_config;
   fp_config.open("cache_configure.cfg");
@@ -191,7 +203,7 @@ int main() {
 
 //  code to redirect output to file
 
-    std::ofstream out("output.txt");
+    std::ofstream out("output_trace-2.txt");
     std::streambuf *coutbuf = std::cout.rdbuf(); //save old buf
     std::cout.rdbuf(out.rdbuf()); //redirect std::cout to out.txt!
 
