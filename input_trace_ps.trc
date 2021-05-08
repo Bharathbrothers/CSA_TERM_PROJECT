@@ -2790,6 +2790,26 @@
 404d74:	0f b6 c0             	movzbl %al,%eax
 404d77:	0f 4c c2             	cmovl  %edx,%eax
 404d7a:	c3                   	retq
+401e20:	ff 25 da 52 21 00    	jmpq   *0x2152da(%rip)        # 617100 <_fini@@Base+0x20a934>
+401e26:	68 1d 00 00 00       	pushq  $0x1d
+401e2b:	e9 10 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e30:	ff 25 d2 52 21 00    	jmpq   *0x2152d2(%rip)        # 617108 <_fini@@Base+0x20a93c>
+401e36:	68 1e 00 00 00       	pushq  $0x1e
+401e3b:	e9 00 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e40:	ff 25 ca 52 21 00    	jmpq   *0x2152ca(%rip)        # 617110 <_fini@@Base+0x20a944>
+401e20:	ff 25 da 52 21 00    	jmpq   *0x2152da(%rip)        # 617100 <_fini@@Base+0x20a934>
+401e26:	68 1d 00 00 00       	pushq  $0x1d
+401e2b:	e9 10 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e30:	ff 25 d2 52 21 00    	jmpq   *0x2152d2(%rip)        # 617108 <_fini@@Base+0x20a93c>
+401e36:	68 1e 00 00 00       	pushq  $0x1e
+401e3b:	e9 00 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e40:	ff 25 ca 52 21 00    	jmpq   *0x2152ca(%rip)        # 617110 <_fini@@Base+0x20a944>
+40222c:	bf 11 00 00 00       	mov    $0x11,%edi
+402231:	48 81 ec 50 02 00 00 	sub    $0x250,%rsp
+402238:	c7 05 a6 62 21 00 00 	movl   $0x0,0x2162a6(%rip)        # 6184e8 <stderr@@GLIBC_2.2.5+0x1068>
+40223f:	00 00 00
+402242:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+402249:	00 00
 404d7b:	0f 1f 44 00 00       	nopl   0x0(%rax,%rax,1)
 404d80:	8b 86 20 03 00 00    	mov    0x320(%rsi),%eax
 404d86:	39 87 20 03 00 00    	cmp    %eax,0x320(%rdi)
@@ -2976,6 +2996,26 @@
 405026:	0f b6 c0             	movzbl %al,%eax
 405029:	0f 4c c2             	cmovl  %edx,%eax
 40502c:	c3                   	retq
+401e20:	ff 25 da 52 21 00    	jmpq   *0x2152da(%rip)        # 617100 <_fini@@Base+0x20a934>
+401e26:	68 1d 00 00 00       	pushq  $0x1d
+401e2b:	e9 10 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e30:	ff 25 d2 52 21 00    	jmpq   *0x2152d2(%rip)        # 617108 <_fini@@Base+0x20a93c>
+401e36:	68 1e 00 00 00       	pushq  $0x1e
+401e3b:	e9 00 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e40:	ff 25 ca 52 21 00    	jmpq   *0x2152ca(%rip)        # 617110 <_fini@@Base+0x20a944>
+401e20:	ff 25 da 52 21 00    	jmpq   *0x2152da(%rip)        # 617100 <_fini@@Base+0x20a934>
+401e26:	68 1d 00 00 00       	pushq  $0x1d
+401e2b:	e9 10 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e30:	ff 25 d2 52 21 00    	jmpq   *0x2152d2(%rip)        # 617108 <_fini@@Base+0x20a93c>
+401e36:	68 1e 00 00 00       	pushq  $0x1e
+401e3b:	e9 00 fe ff ff       	jmpq   401c40 <_init@@Base+0x20>
+401e40:	ff 25 ca 52 21 00    	jmpq   *0x2152ca(%rip)        # 617110 <_fini@@Base+0x20a944>
+40222c:	bf 11 00 00 00       	mov    $0x11,%edi
+402231:	48 81 ec 50 02 00 00 	sub    $0x250,%rsp
+402238:	c7 05 a6 62 21 00 00 	movl   $0x0,0x2162a6(%rip)        # 6184e8 <stderr@@GLIBC_2.2.5+0x1068>
+40223f:	00 00 00
+402242:	64 48 8b 04 25 28 00 	mov    %fs:0x28,%rax
+402249:	00 00
 40502d:	0f 1f 00             	nopl   (%rax)
 405030:	48 8b 8f 50 01 00 00 	mov    0x150(%rdi),%rcx
 405037:	48 8b 96 50 01 00 00 	mov    0x150(%rsi),%rdx
