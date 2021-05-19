@@ -392,7 +392,7 @@ int main() {
     //fscanf(fp_trace, "%s\n",&input_line);
     // -1 in type denotes #
     //std::cout << input_line << '\n';
-    std::string delimiter = ":";
+    std::string delimiter = " ";
     std::string address =  input_line.substr(0,input_line.find(delimiter));
     //std::string lnumber = rtoken.substr(0,rtoken.find(" "));
     //std::string number = rtoken.substr(0,rtoken.find(" "));
