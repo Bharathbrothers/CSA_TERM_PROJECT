@@ -1,0 +1,4934 @@
+cache_size = 2 MB
+2
+block_size = 64 B
+64
+word_size = 4 B
+4
+mapping = 1
+1
+no_of_blocks_in_cache32
+no of blocks in set: 2
+no_of_words_in_block16
+no_of_sets_in_cache 0
+set_associative_mapping
+no of sets in cache: 16
+0add_count 739
+line_count482824
+hit count is : 227
+miss count is : 512
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+add_count739
+line_count482824
+fifo_replacement
+line_count: 482824
+add_count 739
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 1503
+hit count is : 479
+miss count is : 1024
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 1503
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 2694
+hit count is : 1158
+miss count is : 1536
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 2694
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 3617
+hit count is : 1569
+miss count is : 2048
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 3617
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 4491
+hit count is : 1931
+miss count is : 2560
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 4491
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 5726
+hit count is : 2654
+miss count is : 3072
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 5726
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 6934
+hit count is : 3350
+miss count is : 3584
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 6934
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 7934
+hit count is : 3838
+miss count is : 4096
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 7934
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 8921
+hit count is : 4313
+miss count is : 4608
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 8921
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 9908
+hit count is : 4788
+miss count is : 5120
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 9908
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 10773
+hit count is : 5141
+miss count is : 5632
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 10773
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 11856
+hit count is : 5712
+miss count is : 6144
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 11856
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 13400
+hit count is : 6744
+miss count is : 6656
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 13400
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 14787
+hit count is : 7619
+miss count is : 7168
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 14787
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 16348
+hit count is : 8668
+miss count is : 7680
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 16348
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 17838
+hit count is : 9646
+miss count is : 8192
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 17838
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 19072
+hit count is : 10368
+miss count is : 8704
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 19072
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 20554
+hit count is : 11338
+miss count is : 9216
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 20554
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 21774
+hit count is : 12046
+miss count is : 9728
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 21774
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 22936
+hit count is : 12696
+miss count is : 10240
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 22936
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 24180
+hit count is : 13428
+miss count is : 10752
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 24180
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 25221
+hit count is : 13957
+miss count is : 11264
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 25221
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 26190
+hit count is : 14414
+miss count is : 11776
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 26190
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 27397
+hit count is : 15109
+miss count is : 12288
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 27397
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 28402
+hit count is : 15602
+miss count is : 12800
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 28402
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 29378
+hit count is : 16066
+miss count is : 13312
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 29378
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 30835
+hit count is : 17011
+miss count is : 13824
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 30835
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 32186
+hit count is : 17850
+miss count is : 14336
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 32186
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 33446
+hit count is : 18598
+miss count is : 14848
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 33446
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 34715
+hit count is : 19355
+miss count is : 15360
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 34715
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 36028
+hit count is : 20156
+miss count is : 15872
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 36028
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 37446
+hit count is : 21062
+miss count is : 16384
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 37446
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 38680
+hit count is : 21784
+miss count is : 16896
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 38680
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 39942
+hit count is : 22534
+miss count is : 17408
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 39942
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 41300
+hit count is : 23380
+miss count is : 17920
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 41300
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 42691
+hit count is : 24259
+miss count is : 18432
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 42691
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 43940
+hit count is : 24996
+miss count is : 18944
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 43940
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 45209
+hit count is : 25753
+miss count is : 19456
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 45209
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 46563
+hit count is : 26595
+miss count is : 19968
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 46563
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 47914
+hit count is : 27434
+miss count is : 20480
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 47914
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 49067
+hit count is : 28075
+miss count is : 20992
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 49067
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 50394
+hit count is : 28890
+miss count is : 21504
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 50394
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 51694
+hit count is : 29678
+miss count is : 22016
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 51694
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 53047
+hit count is : 30519
+miss count is : 22528
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 53047
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 54197
+hit count is : 31157
+miss count is : 23040
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 54197
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 55543
+hit count is : 31991
+miss count is : 23552
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 55543
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 56878
+hit count is : 32814
+miss count is : 24064
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 56878
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 58218
+hit count is : 33642
+miss count is : 24576
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 58218
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 59422
+hit count is : 34334
+miss count is : 25088
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 59422
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 60738
+hit count is : 35138
+miss count is : 25600
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 60738
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 62111
+hit count is : 35999
+miss count is : 26112
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 62111
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 63368
+hit count is : 36744
+miss count is : 26624
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 63368
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 64590
+hit count is : 37454
+miss count is : 27136
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 64590
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 65947
+hit count is : 38299
+miss count is : 27648
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 65947
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 67289
+hit count is : 39129
+miss count is : 28160
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 67289
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 68561
+hit count is : 39889
+miss count is : 28672
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 68561
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 69780
+hit count is : 40596
+miss count is : 29184
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 69780
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 71118
+hit count is : 41422
+miss count is : 29696
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 71118
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 72475
+hit count is : 42267
+miss count is : 30208
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 72475
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 73747
+hit count is : 43027
+miss count is : 30720
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 73747
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 74949
+hit count is : 43717
+miss count is : 31232
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 74949
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 76272
+hit count is : 44528
+miss count is : 31744
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 76272
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 77605
+hit count is : 45349
+miss count is : 32256
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 77605
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 78891
+hit count is : 46123
+miss count is : 32768
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 78891
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 80100
+hit count is : 46820
+miss count is : 33280
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 80100
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 81391
+hit count is : 47599
+miss count is : 33792
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 81391
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 82748
+hit count is : 48444
+miss count is : 34304
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 82748
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 84094
+hit count is : 49278
+miss count is : 34816
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 84094
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 85313
+hit count is : 49985
+miss count is : 35328
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 85313
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 86600
+hit count is : 50760
+miss count is : 35840
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 86600
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 87922
+hit count is : 51570
+miss count is : 36352
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 87922
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 89190
+hit count is : 52326
+miss count is : 36864
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 89190
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 90369
+hit count is : 52993
+miss count is : 37376
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 90369
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 91707
+hit count is : 53819
+miss count is : 37888
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 91707
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 93055
+hit count is : 54655
+miss count is : 38400
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 93055
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 94305
+hit count is : 55393
+miss count is : 38912
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 94305
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 95508
+hit count is : 56084
+miss count is : 39424
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 95508
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 96865
+hit count is : 56929
+miss count is : 39936
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 96865
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 98207
+hit count is : 57759
+miss count is : 40448
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 98207
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 99479
+hit count is : 58519
+miss count is : 40960
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 99479
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 100725
+hit count is : 59253
+miss count is : 41472
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 100725
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 102088
+hit count is : 60104
+miss count is : 41984
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 102088
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 103339
+hit count is : 60843
+miss count is : 42496
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 103339
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 104668
+hit count is : 61660
+miss count is : 43008
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 104668
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 106081
+hit count is : 62561
+miss count is : 43520
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 106081
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 107299
+hit count is : 63267
+miss count is : 44032
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 107299
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 108508
+hit count is : 63964
+miss count is : 44544
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 108508
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 109864
+hit count is : 64808
+miss count is : 45056
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 109864
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 111257
+hit count is : 65689
+miss count is : 45568
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 111257
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 112369
+hit count is : 66289
+miss count is : 46080
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 112369
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 113563
+hit count is : 66971
+miss count is : 46592
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 113563
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 114875
+hit count is : 67771
+miss count is : 47104
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 114875
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 116101
+hit count is : 68485
+miss count is : 47616
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 116101
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 117211
+hit count is : 69083
+miss count is : 48128
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 117211
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 118502
+hit count is : 69862
+miss count is : 48640
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 118502
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 119744
+hit count is : 70592
+miss count is : 49152
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 119744
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 121136
+hit count is : 71472
+miss count is : 49664
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 121136
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 122339
+hit count is : 72163
+miss count is : 50176
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 122339
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 123622
+hit count is : 72934
+miss count is : 50688
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 123622
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 124876
+hit count is : 73676
+miss count is : 51200
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 124876
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 126178
+hit count is : 74466
+miss count is : 51712
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 126178
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 127439
+hit count is : 75215
+miss count is : 52224
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 127439
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 128639
+hit count is : 75903
+miss count is : 52736
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 128639
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 129805
+hit count is : 76557
+miss count is : 53248
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 129805
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 131052
+hit count is : 77292
+miss count is : 53760
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 131052
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 132367
+hit count is : 78095
+miss count is : 54272
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 132367
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 133687
+hit count is : 78903
+miss count is : 54784
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 133687
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 134889
+hit count is : 79593
+miss count is : 55296
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 134889
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 136084
+hit count is : 80276
+miss count is : 55808
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 136084
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 137277
+hit count is : 80957
+miss count is : 56320
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 137277
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 138696
+hit count is : 81864
+miss count is : 56832
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 138696
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 139848
+hit count is : 82504
+miss count is : 57344
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 139848
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 141204
+hit count is : 83348
+miss count is : 57856
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 141204
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 142391
+hit count is : 84023
+miss count is : 58368
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 142391
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 143765
+hit count is : 84885
+miss count is : 58880
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 143765
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 144867
+hit count is : 85475
+miss count is : 59392
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 144867
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 146277
+hit count is : 86373
+miss count is : 59904
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 146277
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 147448
+hit count is : 87032
+miss count is : 60416
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 147448
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 148659
+hit count is : 87731
+miss count is : 60928
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 148659
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 149914
+hit count is : 88474
+miss count is : 61440
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 149914
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 151355
+hit count is : 89403
+miss count is : 61952
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 151355
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 152464
+hit count is : 90000
+miss count is : 62464
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 152464
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 153711
+hit count is : 90735
+miss count is : 62976
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 153711
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 154974
+hit count is : 91486
+miss count is : 63488
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 154974
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 156283
+hit count is : 92283
+miss count is : 64000
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 156283
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 157453
+hit count is : 92941
+miss count is : 64512
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 157453
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 158667
+hit count is : 93643
+miss count is : 65024
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 158667
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 159915
+hit count is : 94379
+miss count is : 65536
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 159915
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 161115
+hit count is : 95067
+miss count is : 66048
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 161115
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 162398
+hit count is : 95838
+miss count is : 66560
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 162398
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 163731
+hit count is : 96659
+miss count is : 67072
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 163731
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 164971
+hit count is : 97387
+miss count is : 67584
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 164971
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 166179
+hit count is : 98083
+miss count is : 68096
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 166179
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 167472
+hit count is : 98864
+miss count is : 68608
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 167472
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 168686
+hit count is : 99566
+miss count is : 69120
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 168686
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 169990
+hit count is : 100358
+miss count is : 69632
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 169990
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 171011
+hit count is : 100867
+miss count is : 70144
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 171011
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 172356
+hit count is : 101700
+miss count is : 70656
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 172356
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 173524
+hit count is : 102356
+miss count is : 71168
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 173524
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 174868
+hit count is : 103188
+miss count is : 71680
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 174868
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 176085
+hit count is : 103893
+miss count is : 72192
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 176085
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 177397
+hit count is : 104693
+miss count is : 72704
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 177397
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 178534
+hit count is : 105318
+miss count is : 73216
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 178534
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 179781
+hit count is : 106053
+miss count is : 73728
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 179781
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 181090
+hit count is : 106850
+miss count is : 74240
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 181090
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 182467
+hit count is : 107715
+miss count is : 74752
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 182467
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 183674
+hit count is : 108410
+miss count is : 75264
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 183674
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 184872
+hit count is : 109096
+miss count is : 75776
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 184872
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 186163
+hit count is : 109875
+miss count is : 76288
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 186163
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 187539
+hit count is : 110739
+miss count is : 76800
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 187539
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 188686
+hit count is : 111374
+miss count is : 77312
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 188686
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 189927
+hit count is : 112103
+miss count is : 77824
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 189927
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 191218
+hit count is : 112882
+miss count is : 78336
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 191218
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 192587
+hit count is : 113739
+miss count is : 78848
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 192587
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 193764
+hit count is : 114404
+miss count is : 79360
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 193764
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 194988
+hit count is : 115116
+miss count is : 79872
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 194988
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 196276
+hit count is : 115892
+miss count is : 80384
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 196276
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 197447
+hit count is : 116551
+miss count is : 80896
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 197447
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 198706
+hit count is : 117298
+miss count is : 81408
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 198706
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 199661
+hit count is : 117741
+miss count is : 81920
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 199661
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 200683
+hit count is : 118251
+miss count is : 82432
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 200683
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 201824
+hit count is : 118880
+miss count is : 82944
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 201824
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 202904
+hit count is : 119448
+miss count is : 83456
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 202904
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 203984
+hit count is : 120016
+miss count is : 83968
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 203984
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 205064
+hit count is : 120584
+miss count is : 84480
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 205064
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 206144
+hit count is : 121152
+miss count is : 84992
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 206144
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 207224
+hit count is : 121720
+miss count is : 85504
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 207224
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 208322
+hit count is : 122306
+miss count is : 86016
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 208322
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 209363
+hit count is : 122835
+miss count is : 86528
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 209363
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 210384
+hit count is : 123344
+miss count is : 87040
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 210384
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 211666
+hit count is : 124114
+miss count is : 87552
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 211666
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 212807
+hit count is : 124743
+miss count is : 88064
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 212807
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 214206
+hit count is : 125630
+miss count is : 88576
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 214206
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 215243
+hit count is : 126155
+miss count is : 89088
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 215243
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 216533
+hit count is : 126933
+miss count is : 89600
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 216533
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 217712
+hit count is : 127600
+miss count is : 90112
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 217712
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 218900
+hit count is : 128276
+miss count is : 90624
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 218900
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 219947
+hit count is : 128811
+miss count is : 91136
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 219947
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 221176
+hit count is : 129528
+miss count is : 91648
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 221176
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 222376
+hit count is : 130216
+miss count is : 92160
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 222376
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 223598
+hit count is : 130926
+miss count is : 92672
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 223598
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 224823
+hit count is : 131639
+miss count is : 93184
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 224823
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 226094
+hit count is : 132398
+miss count is : 93696
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 226094
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 227489
+hit count is : 133281
+miss count is : 94208
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 227489
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 228906
+hit count is : 134186
+miss count is : 94720
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 228906
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 230155
+hit count is : 134923
+miss count is : 95232
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 230155
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 231563
+hit count is : 135819
+miss count is : 95744
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 231563
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 232851
+hit count is : 136595
+miss count is : 96256
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 232851
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 234209
+hit count is : 137441
+miss count is : 96768
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 234209
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 235521
+hit count is : 138241
+miss count is : 97280
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 235521
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 236762
+hit count is : 138970
+miss count is : 97792
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 236762
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 237879
+hit count is : 139575
+miss count is : 98304
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 237879
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 239371
+hit count is : 140555
+miss count is : 98816
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 239371
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 240723
+hit count is : 141395
+miss count is : 99328
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 240723
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 242006
+hit count is : 142166
+miss count is : 99840
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 242006
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 243308
+hit count is : 142956
+miss count is : 100352
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 243308
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 244588
+hit count is : 143724
+miss count is : 100864
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 244588
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 245870
+hit count is : 144494
+miss count is : 101376
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 245870
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 247256
+hit count is : 145368
+miss count is : 101888
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 247256
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 248450
+hit count is : 146050
+miss count is : 102400
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 248450
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 249557
+hit count is : 146645
+miss count is : 102912
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 249557
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 250860
+hit count is : 147436
+miss count is : 103424
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 250860
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 252351
+hit count is : 148415
+miss count is : 103936
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 252351
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 253642
+hit count is : 149194
+miss count is : 104448
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 253642
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 254910
+hit count is : 149950
+miss count is : 104960
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 254910
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 256183
+hit count is : 150711
+miss count is : 105472
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 256183
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 257448
+hit count is : 151464
+miss count is : 105984
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 257448
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 258933
+hit count is : 152437
+miss count is : 106496
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 258933
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 260453
+hit count is : 153445
+miss count is : 107008
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 260453
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 261612
+hit count is : 154092
+miss count is : 107520
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 261612
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 262847
+hit count is : 154815
+miss count is : 108032
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 262847
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 264249
+hit count is : 155705
+miss count is : 108544
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 264249
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 265545
+hit count is : 156489
+miss count is : 109056
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 265545
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 266731
+hit count is : 157163
+miss count is : 109568
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 266731
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 268010
+hit count is : 157930
+miss count is : 110080
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 268010
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 269016
+hit count is : 158424
+miss count is : 110592
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 269016
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 270135
+hit count is : 159031
+miss count is : 111104
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 270135
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 271464
+hit count is : 159848
+miss count is : 111616
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 271464
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 272813
+hit count is : 160685
+miss count is : 112128
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 272813
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 274017
+hit count is : 161377
+miss count is : 112640
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 274017
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 275282
+hit count is : 162130
+miss count is : 113152
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 275282
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 276620
+hit count is : 162956
+miss count is : 113664
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 276620
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 277821
+hit count is : 163645
+miss count is : 114176
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 277821
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 278971
+hit count is : 164283
+miss count is : 114688
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 278971
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 280188
+hit count is : 164988
+miss count is : 115200
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 280188
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 281621
+hit count is : 165909
+miss count is : 115712
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 281621
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 282914
+hit count is : 166690
+miss count is : 116224
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 282914
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 283917
+hit count is : 167181
+miss count is : 116736
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 283917
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 285264
+hit count is : 168016
+miss count is : 117248
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 285264
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 286564
+hit count is : 168804
+miss count is : 117760
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 286564
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 288060
+hit count is : 169788
+miss count is : 118272
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 288060
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 289418
+hit count is : 170634
+miss count is : 118784
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 289418
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 290829
+hit count is : 171533
+miss count is : 119296
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 290829
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 292048
+hit count is : 172240
+miss count is : 119808
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 292048
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 293263
+hit count is : 172943
+miss count is : 120320
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 293263
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 294745
+hit count is : 173913
+miss count is : 120832
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 294745
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 295910
+hit count is : 174566
+miss count is : 121344
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 295910
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 297437
+hit count is : 175581
+miss count is : 121856
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 297437
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 298712
+hit count is : 176344
+miss count is : 122368
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 298712
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 300009
+hit count is : 177129
+miss count is : 122880
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 300009
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 301314
+hit count is : 177922
+miss count is : 123392
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 301314
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 302587
+hit count is : 178683
+miss count is : 123904
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 302587
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 303871
+hit count is : 179455
+miss count is : 124416
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 303871
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 305208
+hit count is : 180280
+miss count is : 124928
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 305208
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 306805
+hit count is : 181365
+miss count is : 125440
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 306805
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 307775
+hit count is : 181823
+miss count is : 125952
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 307775
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 309031
+hit count is : 182567
+miss count is : 126464
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 309031
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 310461
+hit count is : 183485
+miss count is : 126976
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 310461
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 311739
+hit count is : 184251
+miss count is : 127488
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 311739
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 313064
+hit count is : 185064
+miss count is : 128000
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 313064
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 314336
+hit count is : 185824
+miss count is : 128512
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 314336
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 315658
+hit count is : 186634
+miss count is : 129024
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 315658
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 316958
+hit count is : 187422
+miss count is : 129536
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 316958
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 318193
+hit count is : 188145
+miss count is : 130048
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 318193
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 319725
+hit count is : 189165
+miss count is : 130560
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 319725
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 320918
+hit count is : 189846
+miss count is : 131072
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 320918
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 322352
+hit count is : 190768
+miss count is : 131584
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 322352
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 323634
+hit count is : 191538
+miss count is : 132096
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 323634
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 325022
+hit count is : 192414
+miss count is : 132608
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 325022
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 326311
+hit count is : 193191
+miss count is : 133120
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 326311
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 327555
+hit count is : 193923
+miss count is : 133632
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 327555
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 328739
+hit count is : 194595
+miss count is : 134144
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 328739
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 329999
+hit count is : 195343
+miss count is : 134656
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 329999
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 331224
+hit count is : 196056
+miss count is : 135168
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 331224
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 332560
+hit count is : 196880
+miss count is : 135680
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 332560
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 333979
+hit count is : 197787
+miss count is : 136192
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 333979
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 335183
+hit count is : 198479
+miss count is : 136704
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 335183
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 336424
+hit count is : 199208
+miss count is : 137216
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 336424
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 337759
+hit count is : 200031
+miss count is : 137728
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 337759
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 338992
+hit count is : 200752
+miss count is : 138240
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 338992
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 340438
+hit count is : 201686
+miss count is : 138752
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 340438
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 341754
+hit count is : 202490
+miss count is : 139264
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 341754
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 342841
+hit count is : 203065
+miss count is : 139776
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 342841
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 344122
+hit count is : 203834
+miss count is : 140288
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 344122
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 345405
+hit count is : 204605
+miss count is : 140800
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 345405
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 346754
+hit count is : 205442
+miss count is : 141312
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 346754
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 348152
+hit count is : 206328
+miss count is : 141824
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 348152
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 349625
+hit count is : 207289
+miss count is : 142336
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 349625
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 350926
+hit count is : 208078
+miss count is : 142848
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 350926
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 352115
+hit count is : 208755
+miss count is : 143360
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 352115
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 353593
+hit count is : 209721
+miss count is : 143872
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 353593
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 354760
+hit count is : 210376
+miss count is : 144384
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 354760
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 356152
+hit count is : 211256
+miss count is : 144896
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 356152
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 357611
+hit count is : 212203
+miss count is : 145408
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 357611
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 358908
+hit count is : 212988
+miss count is : 145920
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 358908
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 360194
+hit count is : 213762
+miss count is : 146432
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 360194
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 361386
+hit count is : 214442
+miss count is : 146944
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 361386
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 362615
+hit count is : 215159
+miss count is : 147456
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 362615
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 364002
+hit count is : 216034
+miss count is : 147968
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 364002
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 365654
+hit count is : 217174
+miss count is : 148480
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 365654
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 366571
+hit count is : 217579
+miss count is : 148992
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 366571
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 368093
+hit count is : 218589
+miss count is : 149504
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 368093
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 369330
+hit count is : 219314
+miss count is : 150016
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 369330
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 370772
+hit count is : 220244
+miss count is : 150528
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 370772
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 372066
+hit count is : 221026
+miss count is : 151040
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 372066
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 373371
+hit count is : 221819
+miss count is : 151552
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 373371
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 374641
+hit count is : 222577
+miss count is : 152064
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 374641
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 375861
+hit count is : 223285
+miss count is : 152576
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 375861
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 377536
+hit count is : 224448
+miss count is : 153088
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 377536
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 378799
+hit count is : 225199
+miss count is : 153600
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 378799
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 380095
+hit count is : 225983
+miss count is : 154112
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 380095
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 381598
+hit count is : 226974
+miss count is : 154624
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 381598
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 382837
+hit count is : 227701
+miss count is : 155136
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 382837
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 384011
+hit count is : 228363
+miss count is : 155648
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 384011
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 385303
+hit count is : 229143
+miss count is : 156160
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 385303
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 386373
+hit count is : 229701
+miss count is : 156672
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 386373
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 387458
+hit count is : 230274
+miss count is : 157184
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 387458
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 388712
+hit count is : 231016
+miss count is : 157696
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 388712
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 389941
+hit count is : 231733
+miss count is : 158208
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 389941
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 391286
+hit count is : 232566
+miss count is : 158720
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 391286
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 392698
+hit count is : 233466
+miss count is : 159232
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 392698
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 393874
+hit count is : 234130
+miss count is : 159744
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 393874
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 395122
+hit count is : 234866
+miss count is : 160256
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 395122
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 396499
+hit count is : 235731
+miss count is : 160768
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 396499
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 397655
+hit count is : 236375
+miss count is : 161280
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 397655
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 398828
+hit count is : 237036
+miss count is : 161792
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 398828
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 400150
+hit count is : 237846
+miss count is : 162304
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 400150
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 401190
+hit count is : 238374
+miss count is : 162816
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 401190
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 402486
+hit count is : 239158
+miss count is : 163328
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 402486
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 403888
+hit count is : 240048
+miss count is : 163840
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 403888
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 405175
+hit count is : 240823
+miss count is : 164352
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 405175
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 406488
+hit count is : 241624
+miss count is : 164864
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 406488
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 407846
+hit count is : 242470
+miss count is : 165376
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 407846
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 409107
+hit count is : 243219
+miss count is : 165888
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 409107
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 410388
+hit count is : 243988
+miss count is : 166400
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 410388
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 411705
+hit count is : 244793
+miss count is : 166912
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 411705
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 412921
+hit count is : 245497
+miss count is : 167424
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 412921
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 414186
+hit count is : 246250
+miss count is : 167936
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 414186
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 415615
+hit count is : 247167
+miss count is : 168448
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 415615
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 416778
+hit count is : 247818
+miss count is : 168960
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 416778
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 418058
+hit count is : 248586
+miss count is : 169472
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 418058
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 419357
+hit count is : 249373
+miss count is : 169984
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 419357
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 420451
+hit count is : 249955
+miss count is : 170496
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 420451
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 421665
+hit count is : 250657
+miss count is : 171008
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 421665
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 423054
+hit count is : 251534
+miss count is : 171520
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 423054
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 424692
+hit count is : 252660
+miss count is : 172032
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 424692
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 425730
+hit count is : 253186
+miss count is : 172544
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 425730
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 427125
+hit count is : 254069
+miss count is : 173056
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 427125
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 428410
+hit count is : 254842
+miss count is : 173568
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 428410
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 429672
+hit count is : 255592
+miss count is : 174080
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 429672
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 431022
+hit count is : 256430
+miss count is : 174592
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 431022
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 432130
+hit count is : 257026
+miss count is : 175104
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 432130
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 433438
+hit count is : 257822
+miss count is : 175616
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 433438
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 434688
+hit count is : 258560
+miss count is : 176128
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 434688
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 435949
+hit count is : 259309
+miss count is : 176640
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 435949
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 437456
+hit count is : 260304
+miss count is : 177152
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 437456
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 438634
+hit count is : 260970
+miss count is : 177664
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 438634
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 440051
+hit count is : 261875
+miss count is : 178176
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 440051
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 441311
+hit count is : 262623
+miss count is : 178688
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 441311
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 442600
+hit count is : 263400
+miss count is : 179200
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 442600
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 443805
+hit count is : 264093
+miss count is : 179712
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 443805
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 444978
+hit count is : 264754
+miss count is : 180224
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 444978
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 446175
+hit count is : 265439
+miss count is : 180736
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 446175
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 447440
+hit count is : 266192
+miss count is : 181248
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 447440
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 448711
+hit count is : 266951
+miss count is : 181760
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 448711
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 450004
+hit count is : 267732
+miss count is : 182272
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 450004
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 451441
+hit count is : 268657
+miss count is : 182784
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 451441
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 452659
+hit count is : 269363
+miss count is : 183296
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 452659
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 453862
+hit count is : 270054
+miss count is : 183808
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 453862
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 455182
+hit count is : 270862
+miss count is : 184320
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 455182
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 456530
+hit count is : 271698
+miss count is : 184832
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 456530
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 457694
+hit count is : 272350
+miss count is : 185344
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 457694
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 459132
+hit count is : 273276
+miss count is : 185856
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 459132
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 460135
+hit count is : 273767
+miss count is : 186368
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 460135
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 461623
+hit count is : 274743
+miss count is : 186880
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 461623
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 462881
+hit count is : 275489
+miss count is : 187392
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 462881
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 464284
+hit count is : 276380
+miss count is : 187904
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 464284
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 465674
+hit count is : 277258
+miss count is : 188416
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 465674
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 467076
+hit count is : 278148
+miss count is : 188928
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 467076
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 468408
+hit count is : 278968
+miss count is : 189440
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 468408
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 469557
+hit count is : 279605
+miss count is : 189952
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 469557
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 470929
+hit count is : 280465
+miss count is : 190464
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 470929
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 472113
+hit count is : 281137
+miss count is : 190976
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 472113
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 473538
+hit count is : 282050
+miss count is : 191488
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 473538
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 474916
+hit count is : 282916
+miss count is : 192000
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 474916
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 476280
+hit count is : 283768
+miss count is : 192512
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 476280
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 477594
+hit count is : 284570
+miss count is : 193024
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 477594
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 478851
+hit count is : 285315
+miss count is : 193536
+no_of_blocks_in_cache: 32
+no of blocks in set: 2
+no_of_words_in_block: 16
+no_of_sets_in_cache: 16
+fifo_replacement
+line_count: 482824
+add_count 478851
+no of sets in cache: 16
+After Replacement:!!
+line_count 482824
+add_count 480099
+hit count is : 286051
+miss count is : 
